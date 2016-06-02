@@ -12,6 +12,6 @@ Gradle - as the build tool
 Spring - for dependency injection
 tomcat - as the container
 junit - to unit test every class you write
-Git - as the source control tool. 
-You should create a remote git repository on your personal Github account 
+Git - as the source control tool.
+You should create a remote git repository on your personal Github account
 Regularly push checkpoint commits to the remote repository containing reasonable commit messages
