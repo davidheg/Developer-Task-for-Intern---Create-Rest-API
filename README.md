@@ -1,4 +1,4 @@
-# SortedList
+# Developer Task for Intern - Create Rest API
 Using IntelliJ, write a web application in Java that exposes a Restful interface
 Requirements:
 The following REST APIs should be exposed
