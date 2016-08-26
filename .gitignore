@@ -1,0 +1,10 @@
+gradle
+build
+gradlew
+.gradle/
+settings.gradle
+settings.gradle~
+gradlew.bat
+sorting-lists.iml
+.idea
+.gitignore~
